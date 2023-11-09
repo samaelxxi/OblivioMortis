@@ -1,7 +1,8 @@
 # Oblivio Mortis
 Code for the game 'Oblivio Mortis,' developed during a 3-month  [GameDev Camp](https://gamedev.camp) in collaboration with a 2D artist, 3D artist, and game designer.   
 
-Walkthough video: https://youtu.be/MG-G5Bq9UrE
+Trailer video: https://youtu.be/A5rGruW1LTE?si=NND8AJGhAPFsi1-j  
+Walkthough video: [https://youtu.be/MG-G5Bq9UrE](https://youtu.be/VOfDcCO4LCE?si=7vq2C6mV8bgmOGUL)
 
 ## Game description
 Oblivio Mortis is an isometric hack-and-slash game.   
