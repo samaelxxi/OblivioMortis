@@ -1,3 +1,5 @@
+![Banner](https://indiecup.net/ukraine/wp-content/uploads/sites/5/2023/11/OM_Envir_concept_3_2-620x350.jpg)
+
 # Oblivio Mortis
 Code for the game 'Oblivio Mortis,' developed during a 3-month  [GameDev Camp](https://gamedev.camp) in collaboration with a 2D artist, 3D artist, and game designer.   
 
